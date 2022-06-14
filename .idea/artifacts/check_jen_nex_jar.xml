@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="check_jen_nex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/check_jen_nex_jar</output-path>
+    <root id="archive" name="check_jen_nex.jar">
+      <element id="module-output" name="check_jen_nex" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/18-ea+6/javafx-fxml-18-ea+6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/18-ea+6/javafx-graphics-18-ea+6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/18-ea+6/javafx-controls-18-ea+6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-fxml/18-ea+6/javafx-fxml-18-ea+6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-graphics/18-ea+6/javafx-graphics-18-ea+6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-controls/18-ea+6/javafx-controls-18-ea+6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/18-ea+6/javafx-base-18-ea+6-win.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/openjfx/javafx-base/18-ea+6/javafx-base-18-ea+6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
